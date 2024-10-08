@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Hello, How are you? <a href="https://www.linkedin.com/in/edududuribeiro/"><i>I am Mauro Diaz. Alias : DuckHappy</i></a> 😃️</h1>
+  <h1 align="center">Hello, How are you? <a href="https://www.linkedin.com/in/edududuribeiro/"><i>I am Mauro Diaz. Alias : DuckHappy</i></a> 🦆</h1>
   <p align="center">Learning to program at the University of La Matanza in Buenos Aires 
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
   </a><br>
-  <p align="center">If you need to contact me for something, you are welcome 😉️</h2>
+  <p align="center">If you need to contact me for something, you are welcome 🦆</h2>
 </div>
 <div align="center">
   <a href="https://github.com/DuckHappy">
