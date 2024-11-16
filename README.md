@@ -29,10 +29,6 @@
 -->
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-COBOL" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/console.png">
-  <img align="center" alt="Rafa-Assembler" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/microchip.png">
-
-
 </div><br>
 
 
